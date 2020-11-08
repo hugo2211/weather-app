@@ -1,0 +1,19 @@
+.header {
+    padding: 15px;
+    text-align: center;
+    width: auto;
+    background-color: rgb(52, 40, 80);
+    color: white;
+}
+
+h2{
+    text-align: center;
+}
+.weather-image{
+    width: 50px;
+}
+
+/* color for UV index */
+span{
+    background-color: yellow;
+}
