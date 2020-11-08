@@ -8,5 +8,6 @@ In this app the user will be able to:
 -be able to clear all buttons generated
 
 # screenshot
+![Screenshot](
 
 # url 
